@@ -1,0 +1,13 @@
+[package]
+name = "apisvr"
+version = "0.1.0"
+edition = "2021"
+authors = ["CC <chxy_@hotmail.com>"]
+description = "一个用于管理 API 的工具"
+repository = "https://github.com/sean-cc/ApiSvr"
+license = "MIT"
+keywords = ["api", "server", "management"]
+categories = ["web-programming"]
+
+[dependencies]
+# 在这里添加你的依赖
